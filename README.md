@@ -22,4 +22,4 @@
 
 📌 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CharanRanga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gorantlacharanranga/)  
-[![GitHub](https://img.shields.io/badge/GitHub-CharanRanga-black?style=flat&logo=github)](https://github.com/gorantlacharanranga)
+[![GitHub](https://img.shields.io/badge/GitHub-CharanRanga-black?style=flat&logo=github)](https://github.com/Charanranga)
