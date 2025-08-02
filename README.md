@@ -1,14 +1,13 @@
 # Hi, I'm Charan Ranga! 👋  
 
 🎯 **Computer Science & AI Student | Machine Learning Intern at future interns**  
-💡 Passionate about **AI,web development, Machine Learning, and Data Analytics**  
+💡 Passionate about **AI,web development, Machine Learning, and java**  
 
 ---
 
 ### 🛠 **Tech Stack**  
-🔹 **Programming:** Python | Java | SQL  
-🔹 **Machine Learning & AI:** Scikit-Learn | TensorFlow | NLP  
-🔹 **Data Analytics:** Pandas | Tableau | Excel  
+🔹 **Programming:** Java | SQL  
+🔹 **Machine Learning & AI:** Scikit-Learn | TensorFlow | NLP   
 🔹 **Web Development:** HTML | CSS | JavaScript  
 
 ---
