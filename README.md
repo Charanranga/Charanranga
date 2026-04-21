@@ -1,4 +1,4 @@
-# Hi, I'm Charan Ranga! 👋  
+# Hi, I'm Charan Ranga Gorantla! 👋  
 
 🎯 **Computer Science & Artificial Intelligence Student**  
 💻 **Aspiring Java Full Stack Developer**  
